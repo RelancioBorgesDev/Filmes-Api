@@ -13,3 +13,6 @@
 **Dependencias**
 - Express
 - Nodemon
+
+## **!**
+- Aplicação sendo desenvolvida enquanto eu estudo os conteúdos !
