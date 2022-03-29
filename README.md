@@ -13,6 +13,7 @@
 **Dependencias**
 - Express
 - Nodemon
+- Sequelize
 
 ## **!**
 - Aplicação sendo desenvolvida enquanto eu estudo os conteúdos !
